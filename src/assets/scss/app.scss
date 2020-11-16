@@ -1,0 +1,9 @@
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index.scss';
+
+//COREUI
+@import 'https://unpkg.com/browse/@coreui/coreui@2.1.16/dist/css/coreui.min.css';
+
+// Common classes
+@import 'base';
